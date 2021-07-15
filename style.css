@@ -100,3 +100,9 @@ input[type="submit"] {
     margin: 20px 0 10px 0;
     width: 100px;
 }
+
+/* Page 4 */
+
+main #album #photo img {
+    width: 400px;
+}
